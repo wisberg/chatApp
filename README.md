@@ -1,0 +1,1 @@
+This is a chat app developed with web sockets, an express server, and an HTML, CSS, JS frontend. Developing functionality to add a room and turning this into a React Application. 
